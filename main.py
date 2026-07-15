@@ -15,6 +15,8 @@ class Angka:
 #testing2
 # angka = Angka(10)
 # print(angka.number)
+
+#testing3
 # # Output: 10
 # angka.add_new(5)
 # print(angka.number)
